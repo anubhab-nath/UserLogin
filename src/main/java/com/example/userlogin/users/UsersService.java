@@ -63,6 +63,7 @@ public class UsersService {
     }
 
     public void deleteUser(Long id) {
-        // todo:
+        usersRepository.deleteById(id);
+        // todo: delete doesn't reply if the id is not there
     }
 }

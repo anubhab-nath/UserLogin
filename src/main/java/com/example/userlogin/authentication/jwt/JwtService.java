@@ -1,4 +1,4 @@
-package com.example.userlogin.users.authentication.jwt;
+package com.example.userlogin.authentication.jwt;
 
 import org.springframework.stereotype.Service;
 

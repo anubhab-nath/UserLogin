@@ -1,4 +1,4 @@
-package com.example.userlogin.users.authentication;
+package com.example.userlogin.authentication;
 
 import org.springframework.stereotype.Service;
 
